@@ -7,3 +7,5 @@
 
 Julia equivalent of MATLAB's `predint(fitresult, x, level, intervaltype, simopt)`
 for nonlinear least-squares fits produced by [LsqFit.jl](https://github.com/JuliaNLSolvers/LsqFit.jl).
+
+This package has been generated with the help of Claude AI
