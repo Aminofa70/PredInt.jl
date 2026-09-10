@@ -1,3 +1,6 @@
+# Ignore the temporary file directory in the data folder
+assets/temp
+
 /Manifest*.toml
 /docs/Manifest*.toml
 /docs/build/
