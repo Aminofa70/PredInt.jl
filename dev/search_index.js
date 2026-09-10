@@ -1,0 +1,3 @@
+var documenterSearchIndex = {"docs":
+[{"category":"section","location":"#PredInt","page":"Home","text":"Documentation for PredInt.\n\n","title":"PredInt"},{"category":"method","location":"#PredInt.param_gradient-Tuple{Any, Any, Any}","page":"Home","text":"Jacobian of model(x, p) wrt p, evaluated at arbitrary x\n\n\n\n\n\n","title":"PredInt.param_gradient"},{"category":"function","location":"#PredInt.predint","page":"Home","text":"predint(fit, model, xnew, level=0.95; interval=:observation, simultaneous=false)\n\nReturns a matrix with columns [fit_value, lower, upper] for each x in xnew, mirroring MATLAB's predint output (fitresult evaluated + bounds).\n\n\n\n\n\n","title":"PredInt.predint"}]
+}
